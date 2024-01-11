@@ -2,6 +2,11 @@
  Proyecto final del curso CS031
 
 ## Integrantes
+- Ibañes Perez
+- Cecilia Natali
+
+
+
 
 ## Descripción del proyecto
 
